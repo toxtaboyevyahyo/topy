@@ -1,0 +1,43 @@
+.popular-admin {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  gap: 60px;
+  margin-top: 50px;
+}
+
+.popular {
+  margin-top: 50px;
+  width: 250px;
+}
+
+.p-text {
+  color: grey;
+  opacity: 0.7;
+}
+
+.p-title {
+  color: black;
+}
+
+.popular-flex {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.btn-submit {
+  padding: 8px 12px;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: blue;
+}
+
+.button {
+    padding: 16px 32px;
+    background-color: blue;
+    margin: 0 auto;
+}

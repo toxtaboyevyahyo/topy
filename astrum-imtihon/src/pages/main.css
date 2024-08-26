@@ -1,0 +1,46 @@
+.main {
+    margin-top: 50px;
+}
+
+.car {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 20px;
+    position: relative;
+    background-color: rgb(115, 115, 205);
+    padding: 80px;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: 600;
+    color: #fff;
+    width: 300px;   
+}
+
+.online-car {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.online-text {
+    width: 50%;
+    color: #fff;
+}
+
+.button {
+    color: #fff;
+    background-color: blue;
+    padding: 16px 32px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.img {
+    position: absolute;
+    left: 60%;
+    top: 60%;
+}
